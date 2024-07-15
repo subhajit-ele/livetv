@@ -1,4 +1,3 @@
-#EXTINF:-1 group-title="News" tvg-logo="https://a.rstream.me/img/2246024551.png" user-agent="" tvg-name="Abp Ananda" channel-id="1",https://d2m0gsj0cji3h5.cloudfront.net/out/v1/c567c176ed394c538c8faadb5a653ee5/index.m3u8
+#EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://a.rstream.me/img/2246024551.png" group-title="News" Abp Ananda
 https://d2m0gsj0cji3h5.cloudfront.net/out/v1/c567c176ed394c538c8faadb5a653ee5/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://bengali.cdn.zeenews.com/bengali/desktop/logo/24Ghanta_nav.png" user-agent="" tvg-name="Zee24 Ghanta" channel-id="2",https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
