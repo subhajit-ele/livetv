@@ -1,0 +1,7 @@
+#EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
+#EXTINF:-1 tvg-name="Abp Ananda" tvg-language="Bengali" tvg-logo="https://a.rstream.me/img/2246024551.png" tvg-chno="1" group-title="News",Abp Ananda
+#EXTVLCOPT:http-user-agent=
+https://d2m0gsj0cji3h5.cloudfront.net/out/v1/c567c176ed394c538c8faadb5a653ee5/index.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-language="Bengali" tvg-logo="https://a.rstream.me/img/3362727056.jpg" tvg-chno="2" group-title="Entertainment",Zee Bangla HD
+#EXTVLCOPT:http-user-agent=Zee5
+http://rstream.me/z/0-9-zeebangla/master.m3u8?t=0e1b54f67bd2c977eeb5aeb0f66bf136a6bf25d016fdf28791f09010f7f31924a5c98df3d62b9fd9bddbfc10728163ac17ccbfeb564ce2190c93031ab3df5b75a4570307
